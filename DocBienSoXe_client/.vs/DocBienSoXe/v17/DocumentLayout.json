@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhatHienBanSoXeMay\\DocBienSoXe_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B34ADE45-EF3B-4133-862D-B2BCA1037B8D}|DocBienSoXe\\DocBienSoXe.csproj|d:\\phathienbansoxemay\\docbiensoxe_client\\docbiensoxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34ADE45-EF3B-4133-862D-B2BCA1037B8D}|DocBienSoXe\\DocBienSoXe.csproj|solutionrelative:docbiensoxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34ADE45-EF3B-4133-862D-B2BCA1037B8D}|DocBienSoXe\\DocBienSoXe.csproj|D:\\PhatHienBanSoXeMay\\DocBienSoXe_client\\docbiensoxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34ADE45-EF3B-4133-862D-B2BCA1037B8D}|DocBienSoXe\\DocBienSoXe.csproj|solutionrelative:docbiensoxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PhatHienBanSoXeMay\\DocBienSoXe_client\\DocBienSoXe\\Form1.cs",
+              "RelativeDocumentMoniker": "DocBienSoXe\\Form1.cs",
+              "ToolTip": "D:\\PhatHienBanSoXeMay\\DocBienSoXe_client\\DocBienSoXe\\Form1.cs",
+              "RelativeToolTip": "DocBienSoXe\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:56:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PhatHienBanSoXeMay\\DocBienSoXe_client\\DocBienSoXe\\Form1.cs",
+              "RelativeDocumentMoniker": "DocBienSoXe\\Form1.cs",
+              "ToolTip": "F:\\OnDrive\\OneDrive - VipPro\\StudenNCT\\LapTrinh.net\\Project\\DocBienSoXe\\DocBienSoXe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:49:16.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

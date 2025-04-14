@@ -1,0 +1,30 @@
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\DocBienSoXe.exe.config
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\DocBienSoXe.exe
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\DocBienSoXe.pdb
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\Python.Runtime.dll
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\Python.Runtime.xml
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.AssemblyReference.cache
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.Form1.resources
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.Properties.Resources.resources
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.GenerateResource.cache
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.CoreCompileInputs.cache
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienS.4CDA08A4.Up2Date
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.exe
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\obj\Debug\DocBienSoXe.pdb
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\Newtonsoft.Json.dll
+F:\OnDrive\OneDrive - VipPro\StudenNCT\LapTrinh.net\Project\DocBienSoXe\DocBienSoXe\bin\Debug\Newtonsoft.Json.xml
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\DocBienSoXe.exe.config
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\DocBienSoXe.exe
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\DocBienSoXe.pdb
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\Newtonsoft.Json.dll
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\Python.Runtime.dll
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\Newtonsoft.Json.xml
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\bin\Debug\Python.Runtime.xml
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.AssemblyReference.cache
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.Form1.resources
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.Properties.Resources.resources
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.GenerateResource.cache
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.csproj.CoreCompileInputs.cache
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienS.4CDA08A4.Up2Date
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.exe
+D:\PhatHienBanSoXeMay\DocBienSoXe_client\DocBienSoXe\obj\Debug\DocBienSoXe.pdb
